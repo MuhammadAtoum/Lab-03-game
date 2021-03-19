@@ -76,7 +76,7 @@ case 'n':
 //question4
 
 let name1= prompt('Is my name Muhammad?');
-switch (name1.toUpperCase())
+switch (name1.toLowerCase())
 {
 case 'yes':
 case 'y':
